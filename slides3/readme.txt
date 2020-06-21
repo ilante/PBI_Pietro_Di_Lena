@@ -1,0 +1,2 @@
+This is a folder containing exercises from the slides of Professor Di Lena and the necessary toy files.
+I included notes from slides and the www to explain to myself how stuff works. Maybe its helpful to you too.
